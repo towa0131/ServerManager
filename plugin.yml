@@ -1,0 +1,8 @@
+name: ServerManager
+main: ServerManager\Main
+version: 1.0.0
+api:
+  - 3.0.0-ALPHA11
+load: STARTUP
+author: towa0131
+description: Create web server and manage your pocketmine server.

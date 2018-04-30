@@ -1,0 +1,13 @@
+#  ==========================
+# | ServerManager for PocketMine-MP |
+# |                                      by towa0131   |
+#  ==========================
+
+# What IP/Port to bind on your server.
+# Bind IP Address
+bind-ip: 0.0.0.0
+bind-port: 8080
+
+# Web Authentication UserName/Password
+username: admin
+password: 12345
